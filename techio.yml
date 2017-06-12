@@ -13,4 +13,4 @@ projects:
   babylon:
     root: /babylon-project # Set the root path to your babylon project
     # Set the docker image. This image runs npm install for you on every build
-    runner: techio/copy-builder
+    runner: node
