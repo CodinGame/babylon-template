@@ -6,7 +6,7 @@ The source code for this template is on [GitHub](https://github.com/CodinGame/ba
 
 # Hands-on Demo
 
-@[Sample BabylonJS App Boilerplate]({"stubs": [""], "command": "/bin/bash -c 'chmod +x run.sh && ./run.sh'"})
+@[Sample BabylonJS App Boilerplate]({"stubs": ["script.js"], "command": "/bin/bash -c 'chmod +x run.sh && ./run.sh'"})
 
 Check out the markdown file [`welcome.md`](https://github.com/CodinGame/babylon-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
