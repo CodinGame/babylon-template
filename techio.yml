@@ -13,4 +13,4 @@ projects:
   babylon:
     root: /babylon-project # Set the root path to your babylon project
     # Set the docker image.
-    runner: node
+    runner: bash
